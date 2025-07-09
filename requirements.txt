@@ -1,0 +1,5 @@
+surprise
+numpy
+scikit-learn
+pandas
+recommenders
