@@ -1,0 +1,1 @@
+{"n_users": 943, "n_items": 1646, "model_type": "neumf", "batch_size": 256, "learning_rate": 0.001, "seed": 51}
