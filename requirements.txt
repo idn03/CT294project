@@ -1,8 +1,10 @@
 surprise
-numpy
+numpy>=1.21
 scikit-learn
 pandas
 recommenders
 matplotlib
 pickle-mixin
 tensorflow==2.8.0
+streamlit
+plotly
