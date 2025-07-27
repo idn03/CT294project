@@ -3,3 +3,6 @@ numpy
 scikit-learn
 pandas
 recommenders
+matplotlib
+pickle-mixin
+tensorflow==2.8.0
